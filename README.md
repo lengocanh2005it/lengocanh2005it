@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ngoc Anh</h1>
 <h3 align="center">A passionate Backend Developer from Viet Nam</h3>
 
-I'm a second-year Software Engineering student at the University of Information Technology, Ho Chi Minh City.  
-I specialize in **Backend Development**, with my main tech stack being **NestJS and ASP.NET**.  
-I have strong knowledge of **Microservices Architecture**, **Code Optimization**, and **Software Design Principles**, including **OOP, Functional Programming, SOLID, and DRY**.  
+I'm a second-year Software Engineering student at the University of Information Technology, Ho Chi Minh City. 
 
-Besides Backend, I am also self-learning **Frontend Development, Cloud, and CI/CD** to become a **Fullstack Developer** in the future.  
+I specialize in **Backend Development**, with my main tech stack being **NestJS and ASP.NET**. I have strong knowledge of **Microservices Architecture**, **Code Optimization**, and **Software Design Principles**, including **OOP, Functional Programming, SOLID, and DRY**. Besides Backend, I am also self-learning **Frontend Development, Cloud, and CI/CD** to become a **Fullstack Developer** in the future.  
 I have experience working with **databases** like PostgreSQL, MongoDB, and MySQL, as well as tools like **Redis and Docker**.  
 
 If my skills match your job requirements, please feel free to contact me.  
