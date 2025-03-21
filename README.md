@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lengocanh2005it&label=Profile%20views&color=0e75b6&style=flat" alt="lengocanh2005it" /> </p>
 
-- 🔭 I’m currently working on **Application**
+- 🔭 I’m primarily a **Backend Developer**, but I also work on **Fullstack projects**  
 
-- 🌱 I’m currently learning **Reactjs, Nextjs, Nodejs, Expressjs, Nestjs**
+- 🌱 Currently diving deeper into **NestJS, Microservices, and Cloud Infrastructure**  
 
-- 💬 Ask me about **Website, Application**
+- 💬 Ask me about **Scalable APIs, Database Optimization, and Fullstack Development**  
 
-- 📫 How to reach me **lengocanhpyne363@gmail.com**
+- 📫 How to reach me **lengocanhpyne363@gmail.com**  
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I love debugging more than sleeping... sometimes 😆**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
