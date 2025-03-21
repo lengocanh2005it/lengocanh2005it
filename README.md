@@ -3,20 +3,20 @@
 
 I'm a second-year Software Engineering student at the University of Information Technology, Ho Chi Minh City. 
 
-I specialize in **Backend Development**, with my main tech stack being **NestJS and ASP.NET**. I have strong knowledge of **Microservices Architecture**, **Code Optimization**, and **Software Design Principles**, including **OOP, Functional Programming, SOLID, and DRY**. Besides Backend, I am also self-learning **Frontend Development, Cloud, and CI/CD** to become a **Fullstack Developer** in the future.  
+I specialize in **Backend Development**, with my main tech stack being **NestJS, Spring Boot and ASP.NET**. I have strong knowledge of **Microservices Architecture**, **Code Optimization**, and **Software Design Principles**, including **OOP, Functional Programming, SOLID, and DRY**. Besides Backend, I am also self-learning **Frontend Development, Cloud, and CI/CD** to become a **Fullstack Developer** in the future.  
 I have experience working with **databases** like PostgreSQL, MongoDB, and MySQL, as well as tools like **Redis and Docker**.  
 
 If my skills match your job requirements, please feel free to contact me.  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lengocanh2005it&label=Profile%20views&color=0e75b6&style=flat" alt="lengocanh2005it" /> </p>
 
-- 🔭 I’m primarily a **Backend Developer**, but I also work on **Fullstack projects**  
+- 🔭 I’m primarily a **Backend Developer**, but I also work on **Fullstack projects.**  
 
-- 🌱 Currently diving deeper into **NestJS, Microservices, and Cloud Infrastructure**  
+- 🌱 I’m currently deepening my knowledge in **NestJS, Spring Boot, and ASP.NET**, focusing on scalable **Backend systems**, **Monolithic, Microservices**, **Cloud Infrastructure**, and **Database query optimization** for better performance and deployment efficiency.
 
-- 💬 Ask me about **Scalable APIs, Database Optimization, and Fullstack Development**  
+- 💬 Ask me about **Scalable APIs, Database Optimization, Authentication (OAuth2), Software Architecture Design and more...**.
 
-- 📫 How to reach me **lengocanhpyne363@gmail.com**  
+- 📫 How to reach me **lengocanhpyne363@gmail.com**.  
 
 - ⚡ Fun fact **I love debugging more than sleeping... sometimes 😆**  
 
