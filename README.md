@@ -1,22 +1,25 @@
 <h1 align="center">Hi 👋, I'm Ngoc Anh</h1>
-<h3 align="center">A passionate Backend Developer from Viet Nam</h3>
+<h3 align="center">A passionate Software Engineer from Viet Nam</h3>
 
-I'm a second-year Software Engineering student at the University of Information Technology, Ho Chi Minh City. 
+I'm a third-year Software Engineering student at the University of Information Technology, Ho Chi Minh City.  
 
-I specialize in **Backend Development**, with my main tech stack being **NestJS, Spring Boot and ASP.NET**. I have strong knowledge of **Microservices Architecture**, **Code Optimization**, and **Software Design Principles**, including **OOP, Functional Programming, SOLID, and DRY**. Besides Backend, I am also self-learning **Frontend Development, Cloud, and CI/CD** to become a **Fullstack Developer** in the future.  
-I have experience working with **databases** like PostgreSQL, MongoDB, and MySQL, as well as tools like **Redis and Docker**.  
+I specialize in **Software Development**, with experience across both **Backend** and **Frontend**.  
+My main tech stack includes **NestJS, Spring Boot, ASP.NET, ReactJS, Next.js, Vue, and Flutter**.  
+I have strong knowledge of **Software Architecture, System Design, Databases, and APIs**, as well as key principles like **OOP, Functional Programming, SOLID, and DRY**.  
+I have also worked with **PostgreSQL, MongoDB, MySQL, Redis, and Docker**, and I am continuously learning **Cloud** and **CI/CD** to build scalable, production-ready systems.  
+Beyond coding, I bring the **system thinking of a Software Engineer**, with a focus on designing efficient, maintainable, and scalable solutions.  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lengocanh2005it&label=Profile%20views&color=0e75b6&style=flat" alt="lengocanh2005it" /> </p>
 
-- 🔭 I’m primarily a **Backend Developer**, but I also work on **Fullstack projects.**  
+- 🔭 I’m a **Software Engineer** with experience in both **Backend and Frontend**, working on projects from **system design** to **fullstack development**.  
 
-- 🌱 I’m currently deepening my knowledge in **NestJS, Spring Boot, and ASP.NET**, focusing on scalable **Backend systems**, **Monolithic, Microservices**, **Cloud Infrastructure**, and **Database query optimization** for better performance and deployment efficiency.
+- 🌱 I’m currently deepening my knowledge in **NestJS, Spring Boot, ASP.NET, ReactJS, Next.js, Vue, and Flutter**, while also exploring **Cloud Infrastructure**, **CI/CD pipelines**, and **Database optimization** to build scalable and production-ready systems.  
 
-- 💬 Ask me about **Scalable APIs, Database Optimization, Authentication (OAuth2), Software Architecture Design and more...**.
+- 💬 Ask me about **Software Architecture, System Design, Scalable APIs, Database Optimization, Authentication (OAuth2), and Fullstack Development.**  
 
-- 📫 How to reach me **lengocanhpyne363@gmail.com**.  
+- 📫 How to reach me: **lengocanhpyne363@gmail.com**  
 
-- ⚡ Fun fact **I love debugging more than sleeping... sometimes 😆**  
+- ⚡ Fun fact: **I love debugging more than sleeping... sometimes 😆**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
