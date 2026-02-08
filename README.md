@@ -23,7 +23,8 @@
 
 - 🎓 Third-year **Software Engineering student** @ UIT (VNU-HCM)
 - 🚀 Focused on **Backend & Fullstack development**
-- 🧠 Strong in **OOP, SOLID, REST APIs, System Design**
+- 🧠 Strong in **OOP, SOLID, REST APIs, DSA, OS, Databases**
+- 📐 Basic knowledge of **System Design & Software Architecture**  
 - 🛠 Hands-on with **PostgreSQL, MySQL, MongoDB, Redis**
 - ☁️ Learning **Cloud Native (AWS, Azure) & CI/CD**
 
